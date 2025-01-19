@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "clarity-cash",
+          "appId": "1:767757472519:android:2478cfe3cec9d5d76caba2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "clarity-cash",
+          "configurations": {
+            "android": "1:767757472519:android:2478cfe3cec9d5d76caba2",
+            "web": "1:767757472519:web:44100f680cff0d0a6caba2"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
