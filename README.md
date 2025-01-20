@@ -1,7 +1,9 @@
 # Clarity Cash 💰
 
 <p style="font-size: 25px;"># For Web Screen</p>
-<img src="https://github.com/user-attachments/assets/20d2c97c-e65e-424e-9b3f-912e8550752a" alt="work" width="325" height="300">  <img src="https://github.com/user-attachments/assets/2d420a53-5904-4619-962a-72113d95a415" alt="work" width="325" height="300">  <img src="https://github.com/user-attachments/assets/6935ed5b-17ff-40ec-a04e-0d880330a989" alt="work" width="325" height="300">
+<img src="https://github.com/user-attachments/assets/20d2c97c-e65e-424e-9b3f-912e8550752a" alt="work" width="265" height="200">
+<img src="https://github.com/user-attachments/assets/2d420a53-5904-4619-962a-72113d95a415" alt="work" width="265" height="200">
+<img src="https://github.com/user-attachments/assets/6935ed5b-17ff-40ec-a04e-0d880330a989" alt="work" width="265" height="200">
 
 <p style="font-size: 25px;"># For Mobile Screen</p>
 <img src="https://github.com/user-attachments/assets/651c85c7-2e89-4124-b140-1559077c9ba5" width="200" height="300"/>  
